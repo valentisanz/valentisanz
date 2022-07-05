@@ -3,3 +3,5 @@
 - 📫 You can reach me by: 
    - Linkedin: https://www.linkedin.com/in/valenti-sanz-b7b787178
    - Gmail: valentisanz99@gmail.com
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentisanz&hide=php&theme=tokyonight)
