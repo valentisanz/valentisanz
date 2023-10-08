@@ -7,16 +7,16 @@ I'm a Full Stack Developer based in Barcelona, Spain. Welcome to my GitHub profi
 - 🚀 Passionate about technology and software development.
 - 💡 Always on the lookout to improve my skills and learn new things.
 - 🌟 Enjoy solving problems and creating innovative solutions.
-- 🌐 Experienced in web development, mobile applications, and more.
+- 🌐 Experienced in web development and mobile applications.
 
 ## Technologies and Skills 🛠️
 
 - 💻 Programming languages: JavaScript, Python, Java, and more.
-- 🌐 Web development: HTML, CSS, React, Node.js, Express, etc.
+- 🌐 Web development: HTML, CSS, React, Angular, Node.js, Express, NestJS.
 - 📱 Mobile app development: React Native, Flutter.
 - 📊 Databases: SQL, MongoDB, Firebase, etc.
 - 🚀 Version control tools: Git, GitHub.
-- 🔧 Automation, testing, and continuous deployment.
+- 🔧 Automation and testing.
 
 ## How to Reach Me 📫
 
