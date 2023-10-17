@@ -11,11 +11,11 @@ I'm a Full Stack Developer based in Barcelona, Spain. Welcome to my GitHub profi
 
 ## Technologies and Skills 🛠️
 
-- 💻 Programming languages: JavaScript, Python, Java, and more.
-- 🌐 Web development: HTML, CSS, React, Angular, Node.js, Express, NestJS.
-- 📱 Mobile app development: React Native, Flutter.
-- 📊 Databases: SQL, MongoDB, Firebase, etc.
-- 🚀 Version control tools: Git, GitHub.
+- 💻 Programming languages: Typescript, JavaScript, Python, Java.
+- 🌐 Web development: HTML, CSS, React, Angular, Node.js, Express, NestJS and Django.
+- 📱 Mobile app development: React Native, IONIC, Flutter and Kotlin.
+- 📊 Databases: SQL, MongoDB, Firebase.
+- 🚀 Version control tools: Git, GitHub, Bitbucket and Gitlab.
 - 🔧 Automation and testing.
 
 ## How to Reach Me 📫
